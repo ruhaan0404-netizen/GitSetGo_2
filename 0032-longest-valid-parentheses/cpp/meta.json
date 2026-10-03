@@ -1,0 +1,11 @@
+{
+  "submission_id": "2160717876",
+  "question_id": "32",
+  "slug": "longest-valid-parentheses",
+  "lang": "cpp",
+  "runtime_ms": 2,
+  "runtime_percentile": 47.4701,
+  "memory_mb": 11.8,
+  "memory_percentile": 49.49250000000001,
+  "updated_at": "2026-10-03T04:57:04.870Z"
+}
